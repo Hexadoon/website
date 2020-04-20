@@ -1,2 +1,2 @@
-# hexadoon-website
-website for Hexadoon Studios LLC
+# website
+homepage for Hexadoon Studios LLC
